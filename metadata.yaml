@@ -1,0 +1,54 @@
+_repo: Lettres-d-amour_75253
+_version: 0.0.1
+contributor:
+  author_of_introductions:
+  - agent_name: Capon, Gaston
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '57901'
+    url: http://www.gutenberg.org/2009/agents/57901
+  - agent_name: Yve-Plessis, Robert
+    aliases:
+    - Yve-Plessis, Robert-Charles
+    - Yve-Plessis, R. (Robert)
+    - Plessis, Robert Yve
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '57902'
+    url: http://www.gutenberg.org/2009/agents/57902
+creator:
+  author:
+    agent_name: Cyrano de Bergerac
+    aliases:
+    - Bergerac, Cyrano de
+    - De Bergerac, Cyrano
+    - Bergerac, Savinien Cyrano de
+    birthdate: 1619
+    deathdate: 1655
+    gutenberg_agent_id: '43842'
+    url: http://www.gutenberg.org/2009/agents/43842
+    wikipedia: https://en.wikipedia.org/wiki/Savinien_Cyrano_de_Bergerac
+description: ''
+gutenberg_issued: '2025-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75253'
+language: fr
+pgterms:marc904: https://archive.org/details/lettresdamourp00cyra
+pgterms:marc905: 20241123101910cyranodebe
+pgterms:marc906: '1905'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aParis :$bPlessis, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French -- 17th century -- Correspondence'
+- !lcsh 'Cyrano de Bergerac, 1619-1655 -- Correspondence'
+- !lcc 'PQ'
+- GITenberg
+title: Lettres d'amour
+url: http://www.gutenberg.org/ebooks/75253
